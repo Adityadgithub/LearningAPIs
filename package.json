@@ -17,6 +17,6 @@
     "express": "^4.19.2"             
   },
   "engines": {
-    "node": "YOUR_LOCAL_NODE_VERSION_HERE" 
+    "node": "^22.13.1" 
   }
 }
